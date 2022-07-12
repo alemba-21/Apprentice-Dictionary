@@ -11,7 +11,10 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(#191769, #3d3bb1);
+  background-image: url(../assets/images/pexels-tirachard-kumtanom-733856.jpg);
+  background-size: cover;
+  background-position: center;
+  /* background: linear-gradient(#191769, #3d3bb1); */
 }
 /* wrapper styling */
 .wrapper {
